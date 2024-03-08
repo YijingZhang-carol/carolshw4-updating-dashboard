@@ -171,7 +171,7 @@ def plot_unnormalized_series(df):
 
     data = [trace]
     layout = dict(
-        title="Raw Economic Series",
+        title="Raw Economic Series (Edited by Yijing)",
         autosize=True,
         xaxis=dict(
             rangeselector=dict(
@@ -223,7 +223,7 @@ def plot_normalized_series(dfn):
 
     data = [trace]
     layout = dict(
-        title="Transformed and Normalized Series",
+        title="Transformed and Normalized Series (Edited by Yijing)",
         autosize=True,
         xaxis=dict(
             rangeselector=dict(

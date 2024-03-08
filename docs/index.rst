@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to My Blank Project's documentation!
+This is Yijing Zhang's documentation for HW4 in FINM32900!
 ============================================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
